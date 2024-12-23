@@ -1,0 +1,14 @@
+{
+  "name": "registration-server",
+  "version": "1.0.0",
+  "description": "A simple registration server with Node.js for user registration and retrieval",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
